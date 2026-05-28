@@ -1,0 +1,22 @@
+{
+  "name": "Sparkling Unicorns Lacrosse",
+  "short_name": "Sparkling Unicorns",
+  "description": "Girls lacrosse training, clinics, tryouts, workouts, and college counseling.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fdf2f8",
+  "theme_color": "#db2777",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
